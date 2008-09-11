@@ -1,1 +1,0 @@
-include (../HelloGit.pro)
