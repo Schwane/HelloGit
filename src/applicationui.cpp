@@ -23,6 +23,10 @@
 
 using namespace bb::cascades;
 
+/**
+ *  Test comment for test commit.
+ */
+
 ApplicationUI::ApplicationUI() :
         QObject()
 {
