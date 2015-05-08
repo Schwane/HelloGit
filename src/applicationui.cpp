@@ -25,6 +25,8 @@ using namespace bb::cascades;
 
 /**
  *  Test comment for test commit.
+ *
+ *  Niklas: Another comment for test commit.
  */
 
 ApplicationUI::ApplicationUI() :
