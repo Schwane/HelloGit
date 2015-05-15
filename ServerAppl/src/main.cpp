@@ -27,6 +27,10 @@
 
 using namespace bb::cascades;
 
+/**
+ * Test comment.
+ */
+
 Q_DECL_EXPORT int main(int argc, char **argv)
 {
     Common::TestClass x;
